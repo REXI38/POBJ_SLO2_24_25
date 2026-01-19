@@ -1,0 +1,8 @@
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\bin\Debug\DemoCS.exe.config
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\bin\Debug\DemoCS.exe
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\bin\Debug\DemoCS.pdb
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\obj\Debug\DemoCS.csproj.AssemblyReference.cache
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\obj\Debug\DemoCS.csproj.SuggestedBindingRedirects.cache
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\obj\Debug\DemoCS.csproj.CoreCompileInputs.cache
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\obj\Debug\DemoCS.exe
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\DemoCS\DemoCS\obj\Debug\DemoCS.pdb

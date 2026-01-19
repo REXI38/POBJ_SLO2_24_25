@@ -1,0 +1,23 @@
+﻿  Utilisateur.cpp
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(27,31): error C2227: la partie gauche de '->CalculerSurface' doit pointer vers un type class/struct/union/générique
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(27,60): error C2597: référence non conforme à un membre non static 'Utilisateur::m_x1'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.h(13): message : voir la déclaration de 'Utilisateur::m_x1'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(27,79): error C2597: référence non conforme à un membre non static 'Utilisateur::m_x2'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.h(13): message : voir la déclaration de 'Utilisateur::m_x2'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(28,62): error C2597: référence non conforme à un membre non static 'Utilisateur::m_x1'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.h(13): message : voir la déclaration de 'Utilisateur::m_x1'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(28,81): error C2597: référence non conforme à un membre non static 'Utilisateur::m_x2'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.h(13): message : voir la déclaration de 'Utilisateur::m_x2'
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(32,17): error C2065: 'm_CodeFormeChoisie' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(32,37): error C2050: expression de switch non intégrale
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(34,55): error C2065: 'm_x1' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(34,78): error C2065: 'm_x2' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(35,35): error C2065: 'm_Forme' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(36,37): error C2065: 'm_Forme' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(39,50): error C2065: 'm_x1' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(39,73): error C2065: 'm_x2' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(40,35): error C2065: 'm_Forme' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(41,37): error C2065: 'm_Forme' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(44,48): error C2065: 'm_x1' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(45,35): error C2065: 'm_Forme' : identificateur non déclaré
+C:\LCX\POBJ_SLO2_24_25\SolutionEtudiants\LCX\Ex3_CPP\Ex3_CPP\Utilisateur.cpp(46,37): error C2065: 'm_Forme' : identificateur non déclaré
