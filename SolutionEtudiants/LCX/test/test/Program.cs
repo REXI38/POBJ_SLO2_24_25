@@ -71,7 +71,7 @@
             //-- chaine de caractère -> String --// 
             String chaine = "Hello SLO";
 
-            String[] weekDays = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+            String[] weekDays = {"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"};
 
             //-- touches clavier
             //--> ConsoleKey -> énumération 
