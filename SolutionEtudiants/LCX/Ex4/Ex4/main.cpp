@@ -2,6 +2,7 @@
 
 
 #include "Header.h"
+#include "Ellipse.h"
 #include <iostream>
 #include <string>
 #include <iomanip>
@@ -25,13 +26,30 @@ int intDivEx(int numerator, int denominator) {
 
 void main()
 {
+	int test;
 	
 	//statique
 	Figure objet;
 
+	objet.GetP_public(objet.point);
+
+
+	Ellipse objetE;
+	objetE.Dessiner();
+
+	objetE.point = 10;
+
+	objetE.getE();
+
 	//dynamique
 	Figure* objetdynamique = new Figure;
 
+	objetdynamique = new Ellipse;
+	objetdynamique->Dessiner();
+
+
+
+	delete objetdynamique;
 
 
 

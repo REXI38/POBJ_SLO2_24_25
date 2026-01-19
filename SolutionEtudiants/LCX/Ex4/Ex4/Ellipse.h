@@ -10,6 +10,7 @@ class Ellipse : public Figure
 {
 	//methodes
 public:
+	int getE(void);
 	void EffectuerSaisie(int NoPoint);
 	void Dessiner();
 	Ellipse();
